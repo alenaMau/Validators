@@ -1,0 +1,21 @@
+{
+    "name": "alenamau/validator",
+    "description": "validation",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AlenaMau",
+            "email": "alenamau3486@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^7.4 | ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Validator\\": "src/"
+        }
+    }
+}
