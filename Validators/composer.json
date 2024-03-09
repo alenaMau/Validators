@@ -1,5 +1,5 @@
 {
-    "name": "alenamau/validator",
+    "name": "alenamau/validators",
     "description": "validation",
     "type": "library",
     "license": "MIT",
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Validator\\": "src/"
+            "Validators\\": "src/"
         }
     }
 }
